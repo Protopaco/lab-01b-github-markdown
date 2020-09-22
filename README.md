@@ -19,7 +19,9 @@
     * It is good practice to put code in these files to work properly
 1) Enter `../..` to navigate back to the root directory
     * I'm not sure if this is good practice or not
+
         * I might have been channeling some old DOS code
+
             * I am that old
 1) Enter `echo 'Hello there!' > greeting.md` to add "Hello there!" to "greeting.md"
 1) Check your work using `ls -R`
@@ -33,3 +35,12 @@
 1) Enter `git push origin main` to send it up into the clouds
     * i.e. Github
 
+# Reread the Instructions
+
+1) Realize that you were supposed to add lists and other formatting AFTER you add the instructions
+
+    * worry that it might affect your grade
+
+    * hope your winning personality will with 
+    your some extra credit
+    * ACP and go have a beer
