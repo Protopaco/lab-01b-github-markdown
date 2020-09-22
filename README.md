@@ -37,10 +37,10 @@
 
 # Reread the Instructions
 
-1) Realize that you were supposed to add lists and other formatting AFTER you add the instructions
+1) Realize that you were supposed to add lists and other formatting **AFTER** you add the instructions
 
     * worry that it might affect your grade
 
-    * hope your winning personality will with 
+    * hope your *winning* personality will win 
     your some extra credit
     * ACP and go have a beer
