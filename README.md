@@ -3,6 +3,24 @@
 ## You too can create, edit and remove files using only text commands!
 ### Because UI is for woosies!
 
+Before we get to all of that, ever wonder why phone and calculator keypads are different?
+
+Phone Keypad:
+
+| 1 | 2 | 3 |
+|---|---|---|
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+
+Calculator Keypad:
+
+| 7 | 8 | 9 |
+|---|---|---|
+| 4 | 5 | 6 |
+| 1 | 2 | 3 |
+
+me too!  I don't know the answer, but it is strange, huh?
+
 
 1) First you need to open Terminal!
 
